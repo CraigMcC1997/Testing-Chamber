@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/666.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Arrow.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Background.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Bones.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Box.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Bullet.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Button.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Enemy.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Exit.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/explosion.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Gun.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Limb.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Newspaper.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Spike.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Start.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/TextBox.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Font.spritefont</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA1.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA2.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA3.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA4.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA5.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA6.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA7.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/NewsArticles/NA8.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Wrong.mp3</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Wrong.wav</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Correct.wav</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Player.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Pressure Plate.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Controls Page.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox2.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox3.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox4.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox5.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox1.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox6.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox7.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Speeches/Textbox8.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Shoot.wav</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Open.wav</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Click.wav</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/BackSpace.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/3D Asset/UntexturedSphere.fbx</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Final Scene.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Black out.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Talking.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Controls.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Blood.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/StaticBlood.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Skull.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/ExplosionAnim.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Rock.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/Title.png</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Sound Files/Theme.wav</File>
+    <File>E:/College/Portfolio/Solo Projects/6th solo project/Testing Chamber [COMPLETE]/Testing Chamber/Content/Textures/GENERICTextBox.png</File>
+  </SourceFiles>
+</SourceFileCollection>
