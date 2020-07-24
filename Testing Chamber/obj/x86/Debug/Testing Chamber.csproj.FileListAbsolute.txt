@@ -1,0 +1,576 @@
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Testing Chamber.pdb
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\College\HND\Testing Chamber\Testing Chamber\obj\x86\Debug\Testing Chamber.csprojResolveAssemblyReference.cache
+E:\College\HND\Testing Chamber\Testing Chamber\obj\x86\Debug\Testing Chamber.exe
+E:\College\HND\Testing Chamber\Testing Chamber\obj\x86\Debug\Testing Chamber.pdb
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Player.xnb
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Font.xnb
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Gun.xnb
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Bullet.xnb
+E:\College\HND\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Button.xnb
+E:\College\Testing Chamber\Testing Chamber\obj\x86\Debug\Testing Chamber.exe
+E:\College\Testing Chamber\Testing Chamber\obj\x86\Debug\Testing Chamber.pdb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Testing Chamber.pdb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe.config
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\666.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Arrow.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Bones.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Box.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Bullet.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Button.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Enemy.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Exit.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\explosion.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Font.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Gun.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Limb.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA1.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA2.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA3.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA4.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA5.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA6.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA7.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA8.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle2.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle3.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle4.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle5.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle6.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle7.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle8.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Newspaper.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\NPArticle.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Options.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Player.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Correct.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.wma
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\SpeechBox.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox1.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox2.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox3.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox4.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox5.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Spike.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Start.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\TextBox.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\666.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Arrow.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Background.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Bones.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Box.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Bullet.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Button.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls Page.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Enemy.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Exit.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\explosion.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Gun.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Limb.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Newspaper.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\NPArticle.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Options.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Player.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Pressure Plate.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\SpeechBox.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Spike.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Start.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\TextBox.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Textures\Wrong.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox6.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox7.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox8.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Shoot.xnb
+E:\College\Testing Chamber\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Open.xnb
+E:\College\Testing Chamber\Testing Chamber\obj\x86\Debug\Testing Chamber.csprojResolveAssemblyReference.cache
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe.config
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\obj\x86\Debug\Testing Chamber.exe
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\obj\x86\Debug\Testing Chamber.pdb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\666.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Arrow.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Bones.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Box.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Bullet.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Button.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Enemy.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Exit.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\explosion.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Gun.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Limb.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Newspaper.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NPArticle.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Options.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Player.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\SpeechBox.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Spike.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Start.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\TextBox.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle2.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle3.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle4.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle5.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle6.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle7.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle8.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\NPArticle.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Font.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA1.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA2.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA3.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA4.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA5.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA6.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA7.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA8.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Correct.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Open.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Shoot.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.wma
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox1.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox2.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox3.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox4.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox5.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox6.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox7.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox8.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\666.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Arrow.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Background.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bones.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Box.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bullet.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Button.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls Page.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Enemy.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Exit.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\explosion.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Gun.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Limb.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Newspaper.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Player.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Pressure Plate.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\SpeechBox.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Spike.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Start.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\TextBox.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Testing Chamber.pdb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\obj\x86\Debug\Testing Chamber.csprojResolveAssemblyReference.cache
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Click.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\BackSpace.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\3D Asset\UntexturedSphere.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Black out.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Final Scene.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Talking.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Blood.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\StaticBlood.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Skull.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\ExplosionAnim.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Rock.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Title.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.xnb
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.wma
+E:\College\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\GENERICTextBox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe.config
+E:\Testing Chamber [testing ideas]\Testing Chamber\obj\x86\Debug\Testing Chamber.exe
+E:\Testing Chamber [testing ideas]\Testing Chamber\obj\x86\Debug\Testing Chamber.pdb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\666.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Arrow.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Bones.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Box.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Bullet.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Button.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Enemy.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Exit.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\explosion.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Gun.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Limb.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle2.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle3.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle4.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle5.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle6.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle7.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle8.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Newspaper.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NPArticle.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Options.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Player.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\SpeechBox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Spike.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Start.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\TextBox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\NPArticle.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\SpeechBox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\3D Asset\UntexturedSphere.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Font.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA1.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA2.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA3.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA4.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA5.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA6.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA7.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA8.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Click.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Correct.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Open.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Shoot.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.wma
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.wma
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox1.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox2.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox3.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox4.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox5.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox6.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox7.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox8.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\666.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Arrow.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Background.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\BackSpace.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Black out.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Blood.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bones.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Box.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bullet.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Button.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls Page.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Enemy.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Exit.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\explosion.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\ExplosionAnim.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Final Scene.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\GENERICTextBox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Gun.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Limb.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Newspaper.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Player.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Pressure Plate.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Rock.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Skull.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Spike.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Start.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\StaticBlood.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Talking.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\TextBox.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Content\Textures\Title.xnb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\Testing Chamber.pdb
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Testing Chamber [testing ideas]\Testing Chamber\obj\x86\Debug\Testing Chamber.csprojResolveAssemblyReference.cache
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe.config
+E:\Testing Chamber [COMPLETE]\Testing Chamber\obj\x86\Debug\Testing Chamber.exe
+E:\Testing Chamber [COMPLETE]\Testing Chamber\obj\x86\Debug\Testing Chamber.pdb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\666.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Arrow.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Bones.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Box.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Bullet.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Button.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Enemy.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Exit.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\explosion.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Gun.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Limb.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle2.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle3.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle4.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle5.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle6.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle7.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle8.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Newspaper.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NPArticle.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Options.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Player.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\SpeechBox.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Spike.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Start.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\TextBox.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\NPArticle.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\SpeechBox.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\3D Asset\UntexturedSphere.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Font.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA1.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA2.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA3.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA4.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA5.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA6.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA7.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA8.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Click.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Correct.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Open.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Shoot.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.wma
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.wma
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox1.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox2.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox3.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox4.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox5.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox6.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox7.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox8.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\666.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Arrow.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Background.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\BackSpace.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Black out.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Blood.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bones.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Box.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bullet.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Button.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls Page.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Enemy.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Exit.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\explosion.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\ExplosionAnim.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Final Scene.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\GENERICTextBox.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Gun.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Limb.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Newspaper.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Player.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Pressure Plate.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Rock.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Skull.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Spike.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Start.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\StaticBlood.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Talking.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\TextBox.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Title.xnb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Testing Chamber.pdb
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Testing Chamber [COMPLETE]\Testing Chamber\obj\x86\Debug\Testing Chamber.csprojResolveAssemblyReference.cache
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe.config
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\obj\x86\Debug\Testing Chamber.exe
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\obj\x86\Debug\Testing Chamber.pdb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\666.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Arrow.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Bones.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Box.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Bullet.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Button.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Enemy.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Exit.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\explosion.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Gun.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Limb.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle2.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle3.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle4.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle5.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle6.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle7.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NPArticle8.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Newspaper.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NPArticle.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Options.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Player.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\SpeechBox.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Spike.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Start.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\TextBox.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\NPArticle.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\SpeechBox.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\3D Asset\UntexturedSphere.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Font.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA1.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA2.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA3.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA4.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA5.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA6.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA7.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\NewsArticles\NA8.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Click.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Correct.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Open.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Shoot.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.wma
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Theme.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.wma
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Sound Files\Wrong.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox1.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox2.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox3.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox4.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox5.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox6.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox7.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Speeches\Textbox8.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\666.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Arrow.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Background.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\BackSpace.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Black out.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Blood.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bones.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Box.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Bullet.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Button.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls Page.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Controls.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Enemy.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Exit.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\explosion.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\ExplosionAnim.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Final Scene.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\GENERICTextBox.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Gun.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Limb.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Newspaper.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Player.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Pressure Plate.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Rock.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Skull.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Spike.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Start.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\StaticBlood.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Talking.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\TextBox.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Content\Textures\Title.xnb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Testing Chamber.exe
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\Testing Chamber.pdb
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\MonoGame.Framework.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.XInput.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\College\Portfolio\Solo Projects\6th solo project\Testing Chamber [COMPLETE]\Testing Chamber\obj\x86\Debug\Testing Chamber.csprojResolveAssemblyReference.cache
